@@ -3,21 +3,22 @@
 ## Ingredients
 
 * 1 hatch pepper
-* ~10 cherry tomatos
-* ~7 cherry tomatos
-* 1/3 cup of lime juice
+* 4 roma tomatos
+* 1 oz of lime juice
 * cumin seeds
+* corriander seeds
+* Red pepper flakes
+* ground cumin
 * ground corriander
+* sugar
 * salt
 
 ## Directions
 
-1. Cut pepper into chunks, tomatos in half. Put on a pan with cumin seeds and broil until the hatch pepper starts to blacken.
-2. Chop the remaining tomatos. Put all tomatos and pepper into food processor. Add lime juice, corriander, and salt. Pulse until chopped.
-3. Reduce in a pot until not so liquidy.
-
+1. Cut pepper and tomatos into chunks. Put on a pan with cumin seeds, corriander seeds, red pepper flakes, and some salt. Broil until the hatch pepper starts to blacken.
+2. Put the cooked ingredients into food processor. Add lime juice, ground spices, sugar, and salt. Pulse until blended.
 
 ## Results
 
-*Way* too lime-y. Go with maybe half an ounce next time. The extra tomatos and the reduction step probably wouldn't be necessary.
-I also have corriander seeds, so I should have used those at the roasting step.
+Ended up being a little bit too spicy. Leave off the red pepper flakes. Maybe add them slowly during the food processor step.
+I'd like to swap the sugar for some kind of fruit, maybe pineapple?
