@@ -1,4 +1,8 @@
-# Thai yellow curry
+---
+layout: post
+title: Thai yellow curry
+categories: dinner
+---
 
 ## Ingredients
 
@@ -30,4 +34,4 @@ Lemongrass is good for flavor, but terrible for eating. Instead of chopping it s
 
 ## References
 
-[http://rasamalaysia.com/thai-yellow-curry/2/]
+[http://rasamalaysia.com/thai-yellow-curry/2/](http://rasamalaysia.com/thai-yellow-curry/2/)

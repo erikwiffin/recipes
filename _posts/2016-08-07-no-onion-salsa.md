@@ -1,4 +1,8 @@
-# No Onion Salsa
+---
+layout: post
+title: No onion salsa
+categories: side
+---
 
 ## Ingredients
 
