@@ -6,7 +6,7 @@ categories: shoyu ramen chashu pork chicken stock
 
 ## Chicken Stock
 
-![ramen]({ site.url }/public/2018/12/24/shoyu-ramen.jpg)
+![ramen]({{ site.url }}{{ site.baseurl }}/public/images/2018/12/24/shoyu-ramen.jpg)
 
 ### Ingredients
 
